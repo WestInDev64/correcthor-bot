@@ -1,0 +1,29 @@
+{
+  "name": "correcthor-bot",
+  "version": "0.0.1",
+  "description": "Bot discord correcteur orthographique & réponses taquines",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestInDev64/correcthor-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "orthographe",
+    "correcteur",
+    "humour"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WestInDev64/correcthor-bot/issues"
+  },
+  "homepage": "https://github.com/WestInDev64/correcthor-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
