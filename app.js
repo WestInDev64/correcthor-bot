@@ -3,8 +3,8 @@ const { token } = require('./config.json');
 console.log(token);
 
 /**
- * Point de départ du bot 
- * Création d'une nouvelle instance 
+ * Point de départ du bot
+ * Création d'une nouvelle instance
  * pour communiquer avec l'API DISCORD */
 const bot = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
