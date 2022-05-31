@@ -1,6 +1,6 @@
 const { Client, Intents } = require('discord.js');
 const { token } = require('./config.json');
-console.log(token);
+// console.log(token);
 
 /**
  * Point de départ du bot
