@@ -7,3 +7,10 @@
 Description :
 Correcteur orthographique pour serveur discord qui met des coups de marteau quand tu fais une faute.
 
+## Technique
+
+* nodeJS
+
+* [discord.js](https://discord.js.org)
+
+## Utilisation 
