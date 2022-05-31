@@ -14,7 +14,7 @@ bot.once('ready', () => {
     console.log('Le bot a bien été initialisé!');
 });
 
-bot.on('message', (msg) => {
+bot.on('messageCreate', (msg) => {
     switch (msg.content) {
         case '!correcthor':
             msg.reply('Laisse-moi tranquille, vous avez tué 127 fois Molière dans ce serveur !');
