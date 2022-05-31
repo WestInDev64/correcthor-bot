@@ -14,3 +14,5 @@ Correcteur orthographique pour serveur discord qui met des coups de marteau quan
 * [discord.js](https://discord.js.org)
 
 ## Utilisation 
+
+## Contributions
